@@ -1,4 +1,4 @@
-# CS343 Docker Setup
+# CS454 Docker Setup
 This is a quick setup for compiling and running CS343 code on Windows or macOS using Docker.
 
 ### Setup
